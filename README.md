@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdulaziz Hassan kehinde @Hasmann
+- 👋 Hi, I’m Abdulaziz Hassan kehinde I am a Student majoring in Information Technology, I enjoy working with Javascript, React, Redux,NOSQL(MONGODB) and the MERN stack.I love collaborating and working with people as many of my projects are both done Individually and Collaboratively.Overall Nice Guy 😁.
 - 👀 I’m interested in web development and creating web services 
 - 🌱 I’m currently learning javascript and its frameworks--Expressjs(Node js)&& React js
 - 💞️ I’m looking to collaborate on any web based projects 
